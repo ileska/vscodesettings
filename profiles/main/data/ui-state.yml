@@ -1,0 +1,90 @@
+DEVSENSE.composer-php-vscode: '{"latest.phar.timestamp":1675843946.487}'
+DEVSENSE.phptools-vscode: '{"welcome.lastversion":"1.30"}'
+golang.go: '{"go.extensionVersion":"0.37.0","latestGoVersions":{"timestamp":1676266224253,"goVersions":[{"binpath":"golang.org/dl/go1.20","label":"Go
+  1.20","available":false,"description":"download
+  golang.org/dl/go1.20"},{"binpath":"golang.org/dl/go1.19.5","label":"Go
+  1.19.5","available":false,"description":"download
+  golang.org/dl/go1.19.5"}]},"forceUpdateForGoplsOnDefault":{"options":{},"loose":false,"includePrerelease":false,"raw":"v0.10.1","major":0,"minor":10,"patch":1,"prerelease":[],"build":[],"version":"0.10.1"},"goplsSurveyConfig":"{\"prompt\":true,\"promptThisMonth\":false,\"dateComputedPromptThisMonth\":\"2023-02-10T05:59:31.779Z\"}"}'
+mhutchie.git-graph: '{"lastKnownGitPath":"git"}'
+ms-azuretools.vscode-docker: '{"VSCode.ABExp.FeatureData":{"features":["livesharecontinuousaa","reusableLinks","vscode-docker.aatest","RemoveKernelToolbarInInteractiveWindow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-staging","portForwardingServiceEnabled-production","mindaroBinariesVersion","mindaroBinariesVersion-1.0.20210702","mindaroBinariesVersion-1.0.20210723","account-aa","shouldUseGrpcService","gettingStarted.overrideCategory.vscode.typescript-language-features.nodejsWelcome.when"],"assignmentContext":"vsliv368:30146709;vsreu685:30147344;vscode-docker_aaflight:30153983;python383:30185418;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;bridge0708:30335490;bridge0723:30353136;vsaa593:30376534;c4g48928:30535728;nodejswelcome1cf:30587006;","configs":[{"Id":"vscode","Parameters":{"livesharecontinuousaa":true,"reusableLinks":true,"vscode-docker.aatest":true,"RemoveKernelToolbarInInteractiveWindow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-staging":true,"portForwardingServiceEnabled-production":true,"mindaroBinariesVersion":"1.0.20210615.1","mindaroBinariesVersion-1.0.20210702":"1.0.20210708.15","mindaroBinariesVersion-1.0.20210723":"1.0.20210723.6","account-aa":true,"shouldUseGrpcService":true,"gettingStarted.overrideCategory.vscode.typescript-language-features.nodejsWelcome.when":"false"}}]},"vscode-docker.activity.overall":{"lastSession":1676443930724,"currentMonthSessions":3,"totalSessions":3},"vscode-docker.activity.overallnoedit":{"lastSession":1676443930567,"currentMonthSessions":2,"totalSessions":2},"vscode-docker.container.newContainerUser":false}'
+ms-vscode-remote.remote-containers: '{"VSCode.ABExp.FeatureData":{"features":["livesharecontinuousaa","reusableLinks","RemoveKernelToolbarInInteractiveWindow","portForwardingServiceEnabled-development","portForwardingServiceEnabled-staging","portForwardingServiceEnabled-production","mindaroBinariesVersion","mindaroBinariesVersion-1.0.20210702","mindaroBinariesVersion-1.0.20210723","account-aa","shouldUseGrpcService","gettingStarted.overrideCategory.vscode.typescript-language-features.nodejsWelcome.when"],"assignmentContext":"vsliv368:30146709;vsreu685:30147344;python383:30185418;vspor879:30202332;vspor708:30202333;vspor363:30204092;binariesv615:30325510;bridge0708:30335490;bridge0723:30353136;vsaa593:30376534;c4g48928:30535728;nodejswelcome1cf:30587006;","configs":[{"Id":"vscode","Parameters":{"livesharecontinuousaa":true,"reusableLinks":true,"RemoveKernelToolbarInInteractiveWindow":true,"portForwardingServiceEnabled-development":true,"portForwardingServiceEnabled-staging":true,"portForwardingServiceEnabled-production":true,"mindaroBinariesVersion":"1.0.20210615.1","mindaroBinariesVersion-1.0.20210702":"1.0.20210708.15","mindaroBinariesVersion-1.0.20210723":"1.0.20210723.6","account-aa":true,"shouldUseGrpcService":true,"gettingStarted.overrideCategory.vscode.typescript-language-features.nodejsWelcome.when":"false"}}]}}'
+SeyyedKhandon.firacode: '{"SeyyedKhandon.firacode":"2.2.1"}'
+vintharas.learn-vim: '{"chapter-read-state":"[{\"id\":\"foreword\",\"isRead\":true},{\"id\":\"introduction\",\"isRead\":false},{\"id\":\"installing-vim-in-vscode\",\"isRead\":true},{\"id\":\"baby-steps-in-vim\",\"isRead\":true},{\"id\":\"moving-blazingly-fast-with-the-core-vim-motions\",\"isRead\":true},{\"id\":\"editing-like-magic-with-vim-operators\",\"isRead\":true},{\"id\":\"vims-secret-language\",\"isRead\":false},{\"id\":\"inserting-text\",\"isRead\":false},{\"id\":\"selecting-text\",\"isRead\":true},{\"id\":\"switftly-operate-on-search-matches\",\"isRead\":false},{\"id\":\"copy-paste\",\"isRead\":false},{\"id\":\"command-line-mode\",\"isRead\":false},{\"id\":\"splitting-windows\",\"isRead\":true},{\"id\":\"surrounding-things-with-vim-surround\",\"isRead\":true},{\"id\":\"elevating-your-worflow-with-custom-mappings\",\"isRead\":true},{\"id\":\"moving-even-faster-with-vim-sneak-and-easymotion\",\"isRead\":true},{\"id\":\"multiple-cursors\",\"isRead\":false},{\"id\":\"enhanced-file-explorer-panes-and-palettes\",\"isRead\":true},{\"id\":\"integrating-vscode-with-neovim\",\"isRead\":true},{\"id\":\"some-handy-vscode-only-mappings\",\"isRead\":true},{\"id\":\"where-should-i-go-from-here\",\"isRead\":false},{\"id\":\"cheatsheet\",\"isRead\":true},{\"id\":\"about-the-author\",\"isRead\":false},{\"id\":\"acknowledgments\",\"isRead\":false}]"}'
+workbench.activity.pinnedViewlets2: '[{"id":"workbench.view.explorer","pinned":true,"visible":true,"order":0},{"id":"workbench.view.search","pinned":true,"visible":true,"order":1},{"id":"workbench.view.scm","pinned":true,"visible":true,"order":2},{"id":"workbench.view.debug","pinned":true,"visible":true,"order":3},{"id":"workbench.view.extensions","pinned":true,"visible":true,"order":4},{"id":"workbench.view.remote","pinned":true,"visible":true,"order":4},{"id":"workbench.view.extension.test","pinned":true,"visible":false,"order":6},{"id":"workbench.view.extension.references-view","pinned":true,"visible":false,"order":7},{"id":"workbench.view.extension.dockerView","pinned":true,"visible":true,"order":8},{"id":"workbench.view.extension.learn-vim-container","pinned":true,"visible":true,"order":9},{"id":"workbench.view.editSessions","pinned":true,"visible":false},{"id":"workbench.view.sync","pinned":true,"visible":false},{"id":"userDataProfiles","pinned":true,"visible":false}]'
+workbench.activity.placeholderViewlets: "[{\"id\":\"workbench.view.explorer\",\
+  \"themeIcon\":{\"id\":\"explorer-view-icon\"},\"name\":\"Explorer\",\"isBuilt\
+  in\":true,\"views\":[{\"when\":\"openEditorsVisible\"},{},{},{\"when\":\"time\
+  lineHasProvider\"},{\"when\":\"npm:showScriptExplorer\"},{\"when\":\"go.showE\
+  xplorer\"}]},{\"id\":\"workbench.view.search\",\"themeIcon\":{\"id\":\"search\
+  -view-icon\"},\"name\":\"Search\",\"isBuiltin\":true,\"views\":[{}]},{\"id\":\
+  \"workbench.view.scm\",\"themeIcon\":{\"id\":\"source-control-view-icon\"},\"\
+  name\":\"Source
+  Control\",\"isBuiltin\":true,\"views\":[{\"when\":\"scm.providerCount &&
+  scm.providerCount !=
+  '0'\"},{}]},{\"id\":\"workbench.view.debug\",\"themeIcon\":{\"id\":\"run-view\
+  -icon\"},\"name\":\"Run and
+  Debug\",\"isBuiltin\":true,\"views\":[{\"when\":\"debugUx ==
+  'simple'\"},{\"when\":\"debugUx == 'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"debugUx ==
+  'default'\"},{\"when\":\"loadedScriptsSupported && debugUx ==
+  'default'\"},{\"when\":\"breakpointsExist || hasDebugged || debugUx ==
+  'default'\"},{\"when\":\"debugType == 'pwa-chrome' || debugType ==
+  'pwa-msedge'\"},{\"when\":\"jsDebugHasExcludedCallers && debugType ==
+  'node-terminal' || jsDebugHasExcludedCallers && debugType == 'pwa-chrome' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-extensionHost' ||
+  jsDebugHasExcludedCallers && debugType == 'pwa-msedge' ||
+  jsDebugHasExcludedCallers && debugType ==
+  'pwa-node'\"}]},{\"id\":\"workbench.view.extensions\",\"themeIcon\":{\"id\":\
+  \"extensions-view-icon\"},\"name\":\"Extensions\",\"isBuiltin\":true,\"views\
+  \":[]},{\"id\":\"workbench.view.remote\",\"themeIcon\":{\"id\":\"remote-explo\
+  rer-view-icon\"},\"name\":\"Remote
+  Explorer\",\"isBuiltin\":true,\"views\":[{},{\"when\":\"remote-containers:sho\
+  wDetails\"},{}]},{\"id\":\"workbench.view.extension.test\",\"themeIcon\":{\"id\
+  \":\"test-view-icon\"},\"name\":\"Testing\",\"isBuiltin\":true,\"views\":[{\"\
+  when\":\"testing.providerCount >
+  0\"},{\"when\":\"go.hasProfiles\"}]},{\"id\":\"workbench.view.extension.refer\
+  ences-view\",\"themeIcon\":{\"id\":\"references\"},\"name\":\"References\",\"\
+  isBuiltin\":false,\"views\":[{\"when\":\"reference-list.isActive\"}]},{\"id\":\
+  \"workbench.view.extension.dockerView\",\"iconUrl\":{\"$mid\":1,\"path\":\"%%\
+  EXTENSION_DATA_PATH%%/ms-azuretools.vscode-docker-1.23.3/resources/docker.svg\
+  \",\"scheme\":\"file\"},\"name\":\"Docker\",\"isBuiltin\":false,\"views\":[{}\
+  ,{},{},{},{},{},{}]},{\"id\":\"workbench.view.extension.learn-vim-container\",\
+  \"iconUrl\":{\"$mid\":1,\"path\":\"%%EXTENSION_DATA_PATH%%/vintharas.learn-vi\
+  m-0.0.28/media/code.svg\",\"scheme\":\"file\"},\"name\":\"Learn
+  Vim\",\"isBuiltin\":false,\"views\":[{}]},{\"id\":\"workbench.view.editSessio\
+  ns\",\"themeIcon\":{\"id\":\"edit-sessions-view-icon\"},\"name\":\"Cloud
+  Changes\",\"isBuiltin\":true,\"views\":[{\"when\":\"editSessionsShowView\"}]}\
+  ,{\"id\":\"workbench.view.sync\",\"themeIcon\":{\"id\":\"settings-sync-view-i\
+  con\"},\"name\":\"Settings
+  Sync\",\"isBuiltin\":true,\"views\":[]},{\"id\":\"userDataProfiles\",\"themeI\
+  con\":{\"id\":\"defaultProfile-icon\"},\"name\":\"Profiles\",\"isBuiltin\":tr\
+  ue,\"views\":[]}]"
+workbench.auxiliaryBar.size: "256"
+workbench.editor.languageDetectionOpenedLanguages.global: '[["scss",true],["ignore",true],["properties",true],["json",true],["jsonc",true],["php",true],["javascript",true],["vue",true],["markdown",true],["dockercompose",true],["yaml",true],["plaintext",true]]'
+workbench.explorer.views.state.hidden: '[{"id":"outline","isHidden":false},{"id":"timeline","isHidden":false},{"id":"workbench.explorer.openEditorsView","isHidden":true},{"id":"workbench.explorer.emptyView","isHidden":false},{"id":"workbench.explorer.fileView","isHidden":false},{"id":"npm","isHidden":true},{"id":"go.explorer","isHidden":false},{"id":"vueComponentPreview","isHidden":false}]'
+workbench.grid.size: '{"height":743,"width":1024}'
+workbench.panel.alignment: center
+workbench.panel.lastNonMaximizedHeight: "300"
+workbench.panel.lastNonMaximizedWidth: "300"
+workbench.panel.markers.hidden: '[{"id":"workbench.panel.markers.view","isHidden":false}]'
+workbench.panel.output.hidden: '[{"id":"workbench.panel.output","isHidden":false}]'
+workbench.panel.pinnedPanels: '[{"id":"workbench.panel.markers","name":"Problems","pinned":true,"badgeEnabled":true,"order":0,"visible":true},{"id":"workbench.panel.output","name":"Output","pinned":true,"badgeEnabled":true,"order":1,"visible":true},{"id":"workbench.panel.repl","name":"Debug
+  Console","pinned":true,"badgeEnabled":true,"order":2,"visible":true},{"id":"terminal","name":"Terminal","pinned":true,"badgeEnabled":true,"order":3,"visible":true},{"id":"refactorPreview","name":"Refactor
+  Preview","pinned":true,"badgeEnabled":true,"visible":false}]'
+workbench.panel.repl.hidden: '[{"id":"workbench.panel.repl.view","isHidden":false}]'
+workbench.panel.size: "256"
+workbench.scm.views.state.hidden: '[{"id":"workbench.scm.repositories","isHidden":true},{"id":"workbench.scm","isHidden":false}]'
+workbench.sideBar.size: "388"
+workbench.statusbar.hidden: '["status.workspaceTrust.1675670743106","status.workspaceTrust.8972218322075cb0d643ce8cc827616a","status.workspaceTrust.1675680151511","status.workspaceTrust.ffa7fd0c8b824dba4316f38727051aa6","status.workspaceTrust.c4d6b97c52ab32c28ccda7177e07b8e8","status.workspaceTrust.0f43d883810769fcc2594c864fe111e5","status.workspaceTrust.42b219b4b777041505589d5880f4fedf","status.workspaceTrust.1675943581721","status.workspaceTrust.925b1ad53353dd0bc768f7969594ed9f","status.workspaceTrust.db192c93ba1068aaa93e008fcff67f9d","status.workspaceTrust.1676024530924","status.workspaceTrust.166346f435fdafc0657fa4732684802c","status.workspaceTrust.d418f0ff55e18ddde67eac8a35bc5efb","status.workspaceTrust.c72567d4c65605900a82e29d073b83f8","status.workspaceTrust.1676459962568","status.workspaceTrust.c6a55cf7a04f076b97d1de23df80bf6d","status.workspaceTrust.1676533769264"]'
+workbench.telemetryOptOutShown: "true"
+workbench.view.debug.state.hidden: '[{"id":"workbench.debug.welcome","isHidden":false},{"id":"workbench.debug.variablesView","isHidden":false},{"id":"workbench.debug.watchExpressionsView","isHidden":false},{"id":"workbench.debug.callStackView","isHidden":false},{"id":"workbench.debug.loadedScriptsView","isHidden":false},{"id":"workbench.debug.breakPointsView","isHidden":false},{"id":"jsBrowserBreakpoints","isHidden":false},{"id":"jsExcludedCallers","isHidden":false}]'
+workbench.view.extension.dockerView.state.hidden: '[{"id":"dockerContainers","isHidden":false},{"id":"dockerImages","isHidden":false},{"id":"dockerRegistries","isHidden":false},{"id":"dockerNetworks","isHidden":false},{"id":"dockerVolumes","isHidden":false},{"id":"vscode-docker.views.dockerContexts","isHidden":false},{"id":"vscode-docker.views.help","isHidden":false}]'
+workbench.view.extension.learn-vim-container.state.hidden: '[{"id":"learn-vim","isHidden":false}]'
+workbench.view.extension.test.state.hidden: '[{"id":"workbench.view.testing","isHidden":false},{"id":"go.test.profile","isHidden":false}]'
+workbench.view.extensions.state.hidden: '[{"id":"workbench.views.extensions.installed","isHidden":false},{"id":"workbench.views.extensions.searchOutdated","isHidden":false},{"id":"workbench.views.extensions.workspaceRecommendations","isHidden":false},{"id":"workbench.views.extensions.popular","isHidden":false},{"id":"workbench.views.extensions.searchRecentlyUpdated","isHidden":false},{"id":"workbench.views.extensions.otherRecommendations","isHidden":false},{"id":"extensions.recommendedList","isHidden":false},{"id":"workbench.views.extensions.enabled","isHidden":true},{"id":"workbench.views.extensions.disabled","isHidden":true},{"id":"workbench.views.extensions.marketplace","isHidden":false},{"id":"workbench.views.extensions.searchInstalled","isHidden":false},{"id":"workbench.views.extensions.searchEnabled","isHidden":false},{"id":"workbench.views.extensions.searchDisabled","isHidden":false},{"id":"workbench.views.extensions.searchBuiltin","isHidden":false},{"id":"workbench.views.extensions.searchWorkspaceUnsupported","isHidden":false},{"id":"workbench.views.extensions.builtinFeatureExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinThemeExtensions","isHidden":false},{"id":"workbench.views.extensions.builtinProgrammingLanguageExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.untrustedPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualUnsupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.virtualPartiallySupportedExtensions","isHidden":false},{"id":"workbench.views.extensions.deprecatedExtensions","isHidden":false}]'
+workbench.view.remote.state.hidden: '[{"id":"targetsContainers","isHidden":false},{"id":"detailsContainers","isHidden":false},{"id":"devVolumes","isHidden":false}]'
+workbench.view.search.state.hidden: '[{"id":"workbench.view.search","isHidden":false}]'
+workbench.views.extensions.installed.size: "18"
+workbench.welcomePage.hiddenCategories: '["Setup"]'
+workbench.welcomePage.walkthroughMetadata: '[["vscode.typescript-language-features#nodejsWelcome",{"firstSeen":1675670744282,"stepIDs":["walkthroughs.nodejsWelcome.downloadNode.forMacOrWindows","walkthroughs.nodejsWelcome.downloadNode.forLinux","walkthroughs.nodejsWelcome.makeJsFile","walkthroughs.nodejsWelcome.debugJsFile","walkthroughs.nodejsWelcome.learnMoreAboutJs"],"manaullyOpened":false}],["ms-azuretools.vscode-docker#dockerStart",{"firstSeen":1675680152966,"stepIDs":["openFolder","openFolderMac","scaffold","buildImage","runContainer","dockerExplorer","pushImage","azDeploy","learn"],"manaullyOpened":false}]]'
+zokugun.cron-tasks: '{"version":"0.1.2"}'

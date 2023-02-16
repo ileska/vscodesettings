@@ -1,0 +1,36 @@
+disabled: []
+enabled:
+  - id: AndenetAlexander.vim-cheatsheet
+    uuid: 44fa5d50-e2da-44ec-9a99-2ac839c51a64
+  - id: DEVSENSE.composer-php-vscode
+    uuid: eed2a934-7bb6-4a5b-a29d-353077efd839
+  - id: DEVSENSE.phptools-vscode
+    uuid: 93916db4-e944-4c74-b68e-47f2834e9e93
+  - id: DEVSENSE.profiler-php-vscode
+    uuid: 6e4e2904-96c2-4c5c-8b78-23da062f2f9e
+  - id: dzhavat.bracket-pair-toggler
+    uuid: e052b2e6-71ab-4cb7-8a29-75d6e38ecb8d
+  - id: golang.go
+    uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
+  - id: HarryHopkinson.vim-theme
+    uuid: 1f62f1df-6f6c-43ff-9875-2935ba678106
+  - id: mhutchie.git-graph
+    uuid: 438221f8-1107-4ccd-a6fe-f3b7fe0856b7
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: MS-CEINTL.vscode-language-pack-ru
+    uuid: 392df454-688b-4d61-8dba-a12956ac6448
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: SeyyedKhandon.firacode
+    uuid: f06a4de4-72f7-473f-9560-918fe2907b48
+  - id: stuart.unique-window-colors
+    uuid: 85e93d09-9c05-4473-867f-8daaf1bc9e75
+  - id: vintharas.learn-vim
+    uuid: 159d930e-fdd0-42de-bbf8-5f62686e83a7
+  - id: vscodevim.vim
+    uuid: d96e79c6-8b25-4be3-8545-0e0ecefcae03
+  - id: Vue.volar
+    uuid: a5223b43-8621-4351-a14e-3d560f85f277
+  - id: zokugun.cron-tasks
+    uuid: b7bbbbd5-7a39-4312-87aa-ef6a41de67fb
