@@ -10,6 +10,8 @@ enabled:
     uuid: 6e4e2904-96c2-4c5c-8b78-23da062f2f9e
   - id: dzhavat.bracket-pair-toggler
     uuid: e052b2e6-71ab-4cb7-8a29-75d6e38ecb8d
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
   - id: golang.go
     uuid: d6f6cfea-4b6f-41f4-b571-6ad2ab7918da
   - id: HarryHopkinson.vim-theme
@@ -22,6 +24,12 @@ enabled:
     uuid: 392df454-688b-4d61-8dba-a12956ac6448
   - id: ms-vscode-remote.remote-containers
     uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: mtxr.sqltools
+    uuid: 6a2bbab0-d8f0-43fa-9b26-e6a3b7892a0b
+  - id: mtxr.sqltools-driver-mysql
+    uuid: 45e19ef7-c10a-44ce-8413-0d9edfbbdcaa
+  - id: mtxr.sqltools-driver-pg
+    uuid: ff850146-c38e-4afe-8a34-705074ae16e2
   - id: SeyyedKhandon.firacode
     uuid: f06a4de4-72f7-473f-9560-918fe2907b48
   - id: stuart.unique-window-colors

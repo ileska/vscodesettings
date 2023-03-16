@@ -1,5 +1,90 @@
 {
     "workbench.colorTheme": "Vim Dark Soft",
     "editor.fontFamily": "Fira Code",
-    "editor.fontLigatures": true
+    "editor.fontLigatures": true,
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.advanced": {
+
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "yaml": false,
+        "plaintext": false,
+        "markdown": false,
+        "go": true
+    },
+    "vim.insertModeKeyBindingsNonRecursive": [
+        {
+            "before": ["<C-Bkspce>"],
+            "after": ["d", "l"] 
+        }
+    ],
+    "vim.leader": "<Space>",
+    "vim.normalModeKeyBindingsNonRecursive": [
+        {
+            "before": ["J"],
+            "after": ["5", "j"]
+        },
+        {
+            "before": ["K"],
+            "after": ["5", "k"]
+        },
+        {
+            "before": ["<C-h>"],
+            "after": ["<C-w>", "h"]
+        },
+        {
+            "before": ["<C-j>"],
+            "after": ["<C-w>", "j"]
+        },
+        {
+            "before": ["<C-k>"],
+            "after": ["<C-w>", "k"]
+        },
+        {
+            "before": ["<C-l>"],
+            "after": ["<C-w>", "l"]
+        },
+        {
+            "before": ["<Leader>", "t", "t"],
+            "commands": [":tabnew"]
+        },
+        {
+            "before": ["<Leader>", "t", "n"],
+            "commands": [":tabnext"]
+        },
+        {
+            "before": ["<Leader>", "t", "p"],
+            "commands": [":tabprev"]
+        },
+        {
+            "before": ["<Leader>", "t", "o"],
+            "commands": [
+                {
+                    "command": "workbench.action.files.openFile",
+                }
+            ]
+        },
+        {
+            "before": ["<Leader>", "t", "c"],
+            "commands" : [":tabo"]
+        },   
+        {
+            "before": ["<Leader>", "a"],
+            "commands": [
+              {
+                "command": "workbench.view.explorer",
+              }
+            ]
+          }
+        
+    ],
+    "vim.normalModeKeyBindings": [
+
+    ],
+    "vim.insertModeKeyBindings": [
+
+    ],
+    "sqltools.connections": [],
+    "vim.useSystemClipboard": true
 }
